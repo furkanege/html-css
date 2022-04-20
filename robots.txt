@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: 
+Disallow: /assets
+Disallow: /qr
+Disallow: /depo
+Disallow: /cloud
+
+Sitemap: https://furkanege.com.tr/sitemap.xml
